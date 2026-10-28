@@ -1,0 +1,17 @@
+   # Datos descargados (se regeneran con src/01_download_100m.py)
+   data/raw/
+
+   # Entornos y cachés de Python
+   .venv/
+   __pycache__/
+   *.pyc
+
+   # Spyder
+   .spyproject/
+
+   # Archivos auxiliares de LaTeX
+   *.aux
+   *.log
+   *.out
+   *.toc
+   *.synctex.gz
