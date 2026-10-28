@@ -11,7 +11,7 @@ Análisis de las finales masculinas de 100 m lisos en los Juegos Olímpicos (189
 ## Resumen
 
 - El tiempo del ganador pasó de 12.0 s en 1896 a 9.78 s en 2024.
-- La mejora afecta a toda la final: la media del 2.º al 6.º clasificado pasó de [X] s en [1932 o 1960] a [9.82] s en 2024.
+- La mejora afecta a toda la final: la media del 2.º al 6.º clasificado pasó de 10.56s en 1896 a 9.82s en 2024.
 - El último finalista de 2024 (9.91 s) habría ganado el oro en 22 de las 29 ediciones anteriores.
 - Desde 1996 los tiempos apenas varían, salvo en 2008 y 2012 (Usain Bolt).
 - El cronometraje manual daba tiempos entre 0.05 y 0.18 s más rápidos que el eléctrico.
